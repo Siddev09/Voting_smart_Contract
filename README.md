@@ -1,5 +1,5 @@
 # Voting_smart_Contract 🗳️
-🌎ENTITY INVOLVED:
+#🌎ENTITY INVOLVED:
     Voter: Represents an individual who can vote. Each voter has a name, age, gender, voter ID, and a unique address.
     Candidate: Represents an individual who can be voted for. Each candidate has a name, party affiliation, age, gender,           candidate ID, and a unique address.
     Election Commission: A designated address responsible for overseeing the election process.
